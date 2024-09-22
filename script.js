@@ -1,3 +1,3 @@
-function branchDeveloper(){
+function mergeBranch(){
     
 }
